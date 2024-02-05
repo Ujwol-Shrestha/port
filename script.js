@@ -49,7 +49,7 @@ $(document).ready(function(){
     });
     
  var typed = new Typed(".typing-3", {
-        strings: ["Ujwol Shrestha"],
+        strings: ["Ujwol_Shrestha"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
